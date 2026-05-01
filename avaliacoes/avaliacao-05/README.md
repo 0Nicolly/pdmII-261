@@ -11,9 +11,10 @@ Ainda, Wittgenstein faz uma analogia com as semelhanças de uma família, como c
 Para Wittgenstein, a compreensão de uma linguagem não ocorre por explicações abstratas, mas sim da prática nos diversos contextos, o que ele chamaria de adestramento (Abrichtung). 
 No ensino, o papel do professor seria como um guia para mostrar aos alunos como as palavras funcionam nos contextos específicos, transformando o ensino de definições abstratas para o incentivo ao aluno aprender como usar as palavras através da prática real.
 
-
 No contexto da POO, as regras de cada jogo se mostram presentes nas classes e objetos, pois a abstração da classe depende do seu contexto de uso real, estabelecendo suas próprias regras para como um objeto deve se comportar.  
 Por exemplo, em um jogo de linguagem chamado "Carro", o método acelerar() possui seu significado definido pelo seu uso dentro dessa classe. Ainda nesse exemplo, caso a classe fosse Banco, o contexto não permitiria aplicar esse método. 
 O conceito de Polimorfismo e Herança exemplifica bem o conceito de "semelhanças de família", pois diferentes classes podem implementar o mesmo método de formas distintas, ou seja, o uso prático pode ser diferente, mas eles compartilham semelhanças que os mantém da mesma família. No exemplo anterior, o método acelerar() pode ser implementado tanto na classe Carro como em Jogador, porém não ocorre do mesmo modo.
+
+Além disso, a utilização de uma classe abstrata como Entidade reforça o conceito de “semelhanças de família”, pois ela representa uma característica que agrupa diferentes classes que compartilham propriedades gerais, mesmo que seus comportamentos específicos sejam diferentes. Assim, Carro, Jogador e Banco pertencem a mesma “família” por herdarem de Entidade, mas cada um dentro de um jogo de linguagem próprio.
 
 
