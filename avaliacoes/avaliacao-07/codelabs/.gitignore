@@ -1,0 +1,19 @@
+.DS_Store
+.packages
+
+# */**/android
+# */**/ios
+# */**/.gitignore
+*/**/.metadata
+*/**/android/app/.cxx
+
+.dart_tool/
+
+# IDEs
+.idea/
+
+# Lockfiles
+package-lock.json
+Podfile.lock
+pubspec.lock
+yarn.lock
